@@ -1,3 +1,16 @@
 # AmFoss Tasks
-## Introduction 
-Myself Tulasi lasya , from CSE core. I'm beginner to  Computer science , that intrest on it made me to apply for Praveshan of AmFoss club. Frankly saying I wanted to join this campus because of this club, Because i saw after my +2 exams that this club makes us to achive our goals like to crack Gsoc as i wanted to do so. My hobbies are Drawing, Playing games, Reading books, Watching movies.I am confident that i can achive what i set to my mind.I'm eager to learn and determined to put in the effort.
+## Introduction
+Myself Tulasi lasya , from CSE core. I'm beginner to  Computer science. Frankly saying I wanted to join this campus because of this club, Because i saw after my +2 exams that this club makes us to achive our goals like to crack Gsoc as i wanted to do so. My hobbies are Drawing, Playing games, Reading books, Watching movies.I am confident that i can achive what i set to my mind.I'm ready to put in the effort and hardwork on this club.
+## Why should we choose you ?
+## How do you intend to contribute back to the club?
+## What are your fields of interest, and how do you plan on working on them?
+# TASK STATUS 
+My status on these tasks:
+------------------------------------------------------------------------------------------------
+| **Task no** | **Description** | **Status** |
+---------------------------------------------
+| Task-0 |                     | Completed|
+| Task-1 |                      | Completed |
+| Task-2|
+| Task-3 |                     |           |
+| Task-4 |                      |           |
