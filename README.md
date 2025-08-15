@@ -8,7 +8,7 @@ Myself Tulasi lasya , from CSE core. I'm beginner to  Computer science. Frankly 
 My status on these tasks:
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
-| Task-0 |                     | Completed|
+| Task-0 |  [install linux] ()                   | Completed|
 | Task-1 |                      | Completed |
 | Task-2|
 | Task-3 |                     |           |
