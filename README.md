@@ -6,11 +6,16 @@ Myself Tulasi lasya , from CSE core. I'm beginner to  Computer science. Frankly 
 ## What are your fields of interest, and how do you plan on working on them?
 # TASK STATUS 
 My status on these tasks:
-------------------------------------------------------------------------------------------------
 | **Task no** | **Description** | **Status** |
----------------------------------------------
+|-------------|--------|------------------|
 | Task-0 |                     | Completed|
 | Task-1 |                      | Completed |
 | Task-2|
 | Task-3 |                     |           |
 | Task-4 |                      |           |
+| Task-5 |                      |            |
+| Task-6 |                   |              |
+| Task-7|                      |            |
+| Task-8 |                      |            |
+| Task-9 |                      |            |
+| Task-10 |                      |            |
