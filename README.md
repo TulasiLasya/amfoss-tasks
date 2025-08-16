@@ -9,7 +9,7 @@ My status on these tasks:
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
 | Task-0 |  Install Linux (https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
-| Task-1 |                      | Completed |
+| Task-1 | Terminal Hunt                     | Completed |
 | Task-2|
 | Task-3 |                     |           |
 | Task-4 |                      |           |
