@@ -8,7 +8,7 @@ Myself Tulasi lasya , from CSE core. I'm beginner to  Computer science. Frankly 
 My status on these tasks:
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
-| Task-0 |  [install linux] (https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
+| Task-0 |  Install Linux (https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
 | Task-1 |                      | Completed |
 | Task-2|
 | Task-3 |                     |           |
