@@ -10,7 +10,7 @@ My status on these tasks:
 |-------------|--------|------------------|
 | Task-0 |  [Install Linux](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
 | Task-1 | [Terminal Hunt](https://github.com/TulasiLasya/amfoss-tasks/tree/master/Task%20-%2001)                   | Completed |
-| Task-2|
+| Task-2|[The Cyberpunk Syndicate]()
 | Task-3 |                     |           |
 | Task-4 |                      |           |
 | Task-5 |                      |            |
