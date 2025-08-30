@@ -8,8 +8,8 @@ Myself Tulasi lasya , from CSE core. I'm beginner to  Computer science. Frankly 
 My status on these tasks:
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
-| Task-0 |  Install Linux (https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
-| Task-1 | Terminal Hunt (https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%201/README.md)                   | Completed |
+| Task-0 |  [Install Linux](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
+| Task-1 | [Terminal Hunt](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%201/README.md)                   | Completed |
 | Task-2|
 | Task-3 |                     |           |
 | Task-4 |                      |           |
