@@ -11,7 +11,7 @@ Currently I was exploring the different field in software. I think i will get to
 My status on these tasks:
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
-| Task-0 |  [Install Linux](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%200/README.md)                   | Completed|
+| Task-0 |  [Install Linux](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2000/README.md)                   | Completed|
 | Task-1 | [Terminal Hunt](https://github.com/TulasiLasya/amfoss-tasks/tree/master/Task%20-%2001)                   | Completed |
 | Task-2|[The Cyberpunk Syndicate](https://github.com/TulasiLasya/amfoss-tasks/tree/5708b5e7f85c6d0bca0490a263c767090ab2b013/Task%20-%2002) | Completed |
 | Task-3 |  The Circularity Challenge                 |           |
