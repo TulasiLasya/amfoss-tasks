@@ -1,0 +1,49 @@
+<body>
+  <div id="c1">
+    <div id="r1"></div>
+  </div>
+  <div id="c2">
+    <div id="r2"></div>
+  </div>
+  <div id="c3">
+    <div id="r3"></div>
+  </div>
+</body>
+<style>
+    body { 
+            background-color:#5DBCF9
+          }
+  #r1 { 
+    position:absolute; 
+    height:180px;
+    width:50px;
+    background-color:#FFFFCD;
+    margin:42px;
+    align-items:center;
+    top:10px
+    } 
+  #c1 { 
+    display:flex;
+    justify-content:center;
+    position:relative
+  }
+  #r2 { 
+    height:180px;
+    width:50px;
+    background-color:#FFFFCD;
+    margin:52px;
+    margin-left:80px
+  } 
+  #r3 { 
+    height:180px;
+    width:50px;
+    background-color:#FFFFCD;
+    margin-right:80px;
+    margin-top:-232px
+  }
+  #c3 { 
+   display:flex;
+   justify-content:right;
+   position:relative;
+  }
+</style>
