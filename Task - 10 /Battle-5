@@ -1,0 +1,33 @@
+<body>
+<style>
+body {
+  background:#CA8E75 
+}
+#s1 { 
+  height:200px; 
+  width:220px;
+  background:#FEFF58;
+  margin-left:80px;
+  margin-top:50px;
+  rotate:15deg
+}
+#r1 { height:120px;
+  width:340px;
+  background:#414B81;
+  margin-left:20px;
+  margin-top:-160px;
+  rotate:-15deg
+}
+#r2 { height:60px;
+  width:80px;
+  background:#FEFF58;
+  margin-left:150px;
+   margin-top:-90px;
+   position:absolute;
+   rotate:15deg
+  }
+</style>
+<div id='s1'></div>
+<div id='r1'></div>
+<div id='r2'></div>
+</body>
