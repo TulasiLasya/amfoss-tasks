@@ -1,0 +1,40 @@
+body>
+<style>
+  body{
+    background-color: #51A495;
+  }
+  #s1 {
+    width:100px;
+    height:100px;
+    background-color:#FFFFFF;
+    rotate:45deg;
+    margin-left:35px;
+    margin-top:140px
+  }
+  #s2{ width:100px;
+    height:100px;
+    background-color:#FFFFFF;
+    rotate:45deg;
+    margin-left:35px;
+    margin-top:-180px
+  }
+  #s3{ width:100px;
+    height:100px;
+    background-color:#FFFFFF;
+    rotate:45deg;
+    margin-left:160px;
+    margin-top:-60px
+  }
+  #s4{ width:100px;
+    height:100px;
+    background-color:#FFFFFF;
+    rotate:45deg;
+    margin-left:250px;
+    margin-top:-100px
+  }
+</style>
+<div id='s1'></div>
+  <div id='s2'></div>
+  <div id='s3'></div>
+  <div id='s4'></div>
+</body>
