@@ -1,0 +1,41 @@
+<body>
+<style>
+  body {
+    background: #243D83;
+  }
+  #c1{ justify-content:center;
+       margin-top:29px;
+      margin-left:70px;
+    width:205px;
+    height:204px;
+    border-radius:50%;
+    border:18px solid #FFFFFF;   
+    }
+  #c2{ background-color:#FFFFFF;
+       width:91px;
+       height:90px;
+       border-radius:50%;
+       border:14px solid #FFFFFF;
+       margin-left:132px;
+       margin-top:-179px; }
+  #r1{
+    height:295px;
+    width:45px;
+    border:20px;
+      background-color:#243D83;
+    margin-top:-190px;
+    margin-left:168px;
+  } 
+  #r2{
+    height:45px;
+    width:1200px;
+    border:20px;
+      background-color:#243D83;
+    margin-top:-80px;
+  }
+</style>
+  <div id="c1"></div>
+    <div id="c2"></div>
+  <div id="r2"></div>
+  <div id="r1">
+</body>
