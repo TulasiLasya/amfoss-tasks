@@ -21,13 +21,13 @@ My status on these tasks:
 | Task-7|    WordRush Mobile app                   |            |
 | Task-8 |  OpenCV Treasure Map                    |            |
 | Task-9 |  SysForge challenge                    |            |
-| Task-10 | BattleCraft: Daily CSS Challenges                     |            |
+| Task-10 | BattleCraft: Daily CSS Challenges                     | Completed |
 
 # Additional Tasks
 
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
-| Task-11|  OverTheWire Bandit         |               |
+| Task-11|  [OverTheWire Bandit](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2011/README.md)        | Completed           |
 |Task-12|   Hello, World!        |               |
 |Task-13|  Lessgo Hugo           |            |
 |Task-14|   Sand Simulation         |                |
