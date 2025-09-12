@@ -1,0 +1,49 @@
+<style>
+body {
+    margin:0;
+    background-color: #E25C57;
+    position:relative;
+}
+#r1 {
+    margin-left:50%;
+    height:30px;
+    max-width: 50%;
+    background-color:#F4DA64;
+    margin-bottom:20px}
+#r2 { 
+      margin-left:50%;
+      height:30px;
+      max-width:50%;
+      background-color:#F4DA64;
+      margin-bottom:20px
+   }
+#r3 { 
+     margin-left:50%;
+     height:30px;
+     max-width: 50%;
+     background-color:#F4DA64;
+     margin-bottom:2px;
+     margin-bottom:40px
+}
+#r4,#r5{
+        height:30px;
+        max-width:50%;
+        background-color:#F4DA64;
+        margin-bottom:20px
+}
+#r6 { 
+      height:30px;
+      max-width:50%;
+      background-color: #F4DA64
+}
+</style>
+<body>
+        <div class="box">
+          <div id="r1"></div>
+          <div id="r2"></div>
+          <div id="r3"></div>
+          <div id="r4"></div>
+          <div id="r5"></div>
+          <div id="r6"></div>
+        </div>
+</body>
