@@ -21,7 +21,7 @@ My status on these tasks:
 | Task-7|    WordRush Mobile app                   |Not Completed             |
 | Task-8 |  [OpenCV Treasure Map](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2008/README.md)                    |Completed        |
 | Task-9 |  SysForge challenge                    | Not Completed            |
-| Task-10 | BattleCraft: Daily CSS Challenges                     | Completed |
+| Task-10 | [BattleCraft: Daily CSS Challenges](https://github.com/TulasiLasya/amfoss-tasks/tree/master/Task%20-%2010%20#readme)                     | Completed |
 
 # Additional Tasks
 
