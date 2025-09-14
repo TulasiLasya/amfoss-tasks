@@ -29,5 +29,5 @@ My status on these tasks:
 |-------------|--------|------------------|
 | Task-11|  [OverTheWire Bandit](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2011/README.md)        | Completed           |
 |Task-12|   Hello, World!        |Not Completed                |
-|Task-13|  Lessgo Hugo           |            |
+|Task-13|  Lessgo Hugo           |  Not Completed          |
 |Task-14|   Sand Simulation         | Not Completed                |
