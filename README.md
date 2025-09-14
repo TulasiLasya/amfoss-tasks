@@ -14,13 +14,13 @@ My status on these tasks:
 | Task-0 |  [Install Linux](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2000/README.md)                   | Completed|
 | Task-1 | [Terminal Hunt](https://github.com/TulasiLasya/amfoss-tasks/tree/master/Task%20-%2001)                   | Completed |
 | Task-2|[The Cyberpunk Syndicate](https://github.com/TulasiLasya/amfoss-tasks/tree/5708b5e7f85c6d0bca0490a263c767090ab2b013/Task%20-%2002) | Completed |
-| Task-3 |  The Circularity Challenge                 |           |
-| Task-4 |  CineScope                    |           |
-| Task-5 |   TimeTickQuiz CLI                   |            |
-| Task-6 | LyricLounge Discord bot                  |              |
-| Task-7|    WordRush Mobile app                   |            |
-| Task-8 |  OpenCV Treasure Map                    |            |
-| Task-9 |  SysForge challenge                    |            |
+| Task-3 |  The Circularity Challenge                 |  Not Completed         |
+| Task-4 |  CineScope                    | Not Completed           |
+| Task-5 |   TimeTickQuiz CLI                   |Not Completed             |
+| Task-6 | LyricLounge Discord bot                  | Not Completed              |
+| Task-7|    WordRush Mobile app                   |Not Completed             |
+| Task-8 |  [OpenCV Treasure Map](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2008/README.md)                    |Completed        |
+| Task-9 |  SysForge challenge                    | Not Completed            |
 | Task-10 | BattleCraft: Daily CSS Challenges                     | Completed |
 
 # Additional Tasks
@@ -28,6 +28,6 @@ My status on these tasks:
 | **Task no** | **Description** | **Status** |
 |-------------|--------|------------------|
 | Task-11|  [OverTheWire Bandit](https://github.com/TulasiLasya/amfoss-tasks/blob/master/Task%20-%2011/README.md)        | Completed           |
-|Task-12|   Hello, World!        |               |
+|Task-12|   Hello, World!        |Not Completed                |
 |Task-13|  Lessgo Hugo           |            |
-|Task-14|   Sand Simulation         |                |
+|Task-14|   Sand Simulation         | Not Completed                |
